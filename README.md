@@ -7,10 +7,6 @@
 *the hill turns red and explains nothing*  
 *i leave footprints only in the commit log*
 
-<br>
-
-[![spring](https://img.shields.io/badge/spring-21262d?style=flat-square&labelColor=0d1117)](README.spring.md) &nbsp;&nbsp; [![summer](https://img.shields.io/badge/summer-21262d?style=flat-square&labelColor=0d1117)](README.summer.md) &nbsp;&nbsp; ![autumn](https://img.shields.io/badge/autumn-e07a2f?style=flat-square&labelColor=0d1117) &nbsp;&nbsp; [![winter](https://img.shields.io/badge/winter-21262d?style=flat-square&labelColor=0d1117)](README.winter.md)
-
 </div>
 
 ---

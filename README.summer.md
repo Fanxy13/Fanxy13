@@ -7,10 +7,6 @@
 *long light, short patience*  
 *the machine runs warm and so do i*
 
-<br>
-
-[![spring](https://img.shields.io/badge/spring-21262d?style=flat-square&labelColor=0d1117)](README.spring.md) &nbsp;&nbsp; ![summer](https://img.shields.io/badge/summer-2dd4bf?style=flat-square&labelColor=0d1117) &nbsp;&nbsp; [![autumn](https://img.shields.io/badge/autumn-21262d?style=flat-square&labelColor=0d1117)](README.autumn.md) &nbsp;&nbsp; [![winter](https://img.shields.io/badge/winter-21262d?style=flat-square&labelColor=0d1117)](README.winter.md)
-
 </div>
 
 ---

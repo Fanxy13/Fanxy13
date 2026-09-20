@@ -7,10 +7,6 @@
 *quiet enough to hear the fans spin down*  
 *what is finished looks a lot like what was abandoned*
 
-<br>
-
-[![spring](https://img.shields.io/badge/spring-21262d?style=flat-square&labelColor=0d1117)](README.spring.md) &nbsp;&nbsp; [![summer](https://img.shields.io/badge/summer-21262d?style=flat-square&labelColor=0d1117)](README.summer.md) &nbsp;&nbsp; [![autumn](https://img.shields.io/badge/autumn-21262d?style=flat-square&labelColor=0d1117)](README.autumn.md) &nbsp;&nbsp; ![winter](https://img.shields.io/badge/winter-cfe3f2?style=flat-square&labelColor=0d1117)
-
 </div>
 
 ---
