@@ -4,12 +4,8 @@
 
 <img src="art/autumn-forest.svg" width="820" alt="an ascii forest in autumn" />
 
-*the hill turns red and explains nothing*  
-*i leave footprints only in the commit log*
 
 </div>
-
----
 
 ### the craft
 
