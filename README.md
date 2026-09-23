@@ -5,9 +5,11 @@
 <img src="art/autumn-forest.svg" width="820" alt="an ascii forest in autumn" />
 </div>
 
-### the craft
+<div align="center">
 
-<img src="art/autumn-craft.svg" width="640" alt="" />
+<img src="art/autumn-craft.svg" width="820" alt="the craft: HTML 82.8%, JavaScript 14.3%, CSS 1.3%, Python 0.7%, C 0.7%, Shell 0.2%" />
+
+</div>
 
 <div align="center">
 
